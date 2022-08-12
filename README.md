@@ -29,10 +29,14 @@ You can control this bot by sending these commands:
 ## Timer
 
 Set timer:
+  
 ![image](https://user-images.githubusercontent.com/107999456/184425063-e3e82163-5c10-4a6e-b829-f6e9f51b23fa.png)
+  
 Unset timer:
+  
 ![image](https://user-images.githubusercontent.com/107999456/184425164-9bd6e0df-fff7-42d8-b8c8-59f3d7a27124.png)
 
+  
 ## Weather
 
 ![image](https://user-images.githubusercontent.com/107999456/184426020-d0eb5453-ecaa-4802-9109-687028fe7e93.png)
@@ -44,13 +48,17 @@ Unset timer:
 ## Download Images
 Process:
 - Choose options:
+  
   ![image](https://user-images.githubusercontent.com/107999456/184427008-41598a82-efb4-4e3e-a62c-02dd74564e98.png)
 
 - Write name of the Image:
+  
   ![image](https://user-images.githubusercontent.com/107999456/184427195-c142645a-fb22-409e-b197-0545a1254114.png)
 
 - Any name:
+  
   ![image](https://user-images.githubusercontent.com/107999456/184427285-7bb14be3-70e7-42e6-a01e-6b38e0bb745e.png)
 
 Result:
+  
 ![image](https://user-images.githubusercontent.com/107999456/184427397-fb5fc929-ce1f-465e-8aca-9b884e24c3b1.png)
