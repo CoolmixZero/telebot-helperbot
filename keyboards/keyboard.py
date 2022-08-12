@@ -11,7 +11,7 @@ markup_inline = types.InlineKeyboardMarkup(row_width=2)
 
 speed_test = types.InlineKeyboardButton("🚀 Speedtest", callback_data='speedtest')
 instagram = types.InlineKeyboardButton("🔥 Instagram", callback_data='instagram')
-weather = types.InlineKeyboardButton("⛈ Weather", callback_data='weather_dir')
+weather = types.InlineKeyboardButton("⛈ Weather", callback_data='weather')
 download = types.InlineKeyboardButton("⬇ Download", callback_data='download')
 
 markup_inline.add(speed_test, instagram, weather, download)
