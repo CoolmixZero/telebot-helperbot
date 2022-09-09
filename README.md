@@ -1,7 +1,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Last Commit](https://img.shields.io/github/last-commit/CoolmixZero/yclients-api-python?style=for-the-badge)
 
-# HelperBot on PyTelegramBotAPI
+# HelperBot on PyTelegramBotAP
 
 This bot can start Speedtest and Timer, give Instagram and GitHub links. ALso can get current Weather forecast and download Images from Google Images. 
 
